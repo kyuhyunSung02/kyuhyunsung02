@@ -155,8 +155,8 @@ jobs:
 
     - name: Commit and push
       run: |
-        git config user.name "KyuHyeon Sung"
-        git config user.email "dmp100@naver.com"
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add -f anime-retro.gif gif_index.txt cache_version.txt README.md
         git commit -m "Update GIF $(date +%H:%M:%S)"
         git push
