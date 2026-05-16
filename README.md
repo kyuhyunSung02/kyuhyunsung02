@@ -5,7 +5,7 @@
 <!-- GIF 클릭 시 Notion으로 이동 -->
 <p align="center">
   <a href="https://mature-date-b7d.notion.site/Watch-me-upgrade-27dd39becd34810381e4fef816ee3a7d" target="_blank" rel="noopener noreferrer">
-    <img src="anime-retro.gif?cache-bust=377" width="800" height="600" alt="lum">
+    <img src="anime-retro.gif?cache-bust=378" width="800" height="600" alt="lum">
   </a>
 </p>
 
